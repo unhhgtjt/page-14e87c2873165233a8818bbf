@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ef7f8a97c016be89c7513156",
+  "owner": "unhhgtjt",
+  "repo": "page-14e87c2873165233a8818bbf",
+  "title": "大阪国際",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "14e87c2873165233a8818bbf",
+      "a": "大阪国際",
+      "b": "机场官网线路发布页",
+      "entity": "大阪国際",
+      "brand": "大阪国際",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "882ae253ab9452499120851334ba1e10299b4546d1f74680139e3187f7c52a61",
+      "content": {
+        "primary_entity": "大阪国際",
+        "keyword1": "大阪国際",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定海外线路的用户提供可对比的订阅方案。基础版每月 100GB 流量、3 台设备，适合日常浏览与轻量流媒体；旗舰版每月 300GB、5 台设备，并为游戏场景优化低延迟线路；团队版每月 1000GB、20 台设备，适合小团队协作与多终端覆盖。按年付方案可降低月均成本。",
+          "AI_HERO_SUBTITLE": "多设备订阅轻松接入",
+          "AI_HERO_INTRO": "大阪国際提供分层海外加速订阅，覆盖个人到小型团队的不同流量与设备需求。选择合适套餐后，可按对应客户端文档配置订阅地址，在手机、电脑与路由器上使用。",
+          "AI_VISUAL_TITLE": "大阪国際加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按月或按年选择",
+          "AI_HIGHLIGHT_2": "流量与设备数灵活匹配",
+          "AI_HIGHLIGHT_3": "多平台客户端配置指引",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "根据日常用量和同时在线设备数选择套餐，不同档位提供对应的流量、设备与线路权益。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线，可按常用终端数量匹配。",
+          "AI_FEATURE_TITLE_2": "按流量周期选择",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，按月付或年付均可，年付折算后月均更省。",
+          "AI_FEATURE_TITLE_3": "按线路需求选择",
+          "AI_FEATURE_TEXT_3": "旗舰版提供流媒体解锁与游戏加速优化，团队版增加高带宽节点和企业定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "在手机、电脑与路由器上使用前，先确认设备系统与订阅格式，再选择对应的客户端进行配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版适合多设备与流媒体、游戏需求，团队版适合多终端高流量场景，可按预算与用量选择。",
+          "AI_GUIDE_TITLE": "接入步骤",
+          "AI_GUIDE_INTRO": "按选择服务、核对设备要求、配置订阅的步骤操作，即可在常用设备上使用大阪国際加速服务。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在基础版、旗舰版与团队版之间选择，并确定月付或年付周期。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端兼容性，查看订阅地址格式是否与所选客户端匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按客户端的导入说明添加订阅地址，连接后选择合适节点即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "大阪国際套餐可以同时用几台设备？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时部分设备可能无法同时连接，可按需升级套餐。",
+          "AI_FAQ_QUESTION_2": "订阅地址如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "在客户端中选择订阅导入或手动添加配置，粘贴订阅地址后更新节点列表。不同客户端入口位置不同，可参照对应文档操作。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月续费，年付一次性支付全年费用。以基础版为例，年付 ¥150 相当于每月约 ¥12.5，比月付 ¥15 更划算。",
+          "AI_FAQ_QUESTION_4": "流量用完了会怎样？",
+          "AI_FAQ_ANSWER_4": "套餐流量按月重置。若当月提前用尽，可等待下月重置或升级到更高流量档位，旗舰版与团队版提供更大月流量。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备，并提供高带宽节点与企业定制路由，适合小型团队、工作室或多终端家庭使用。",
+          "AI_CLOSING_TITLE": "开始选择套餐",
+          "AI_CLOSING_TEXT": "按设备数量和月流量选定套餐，再依客户端文档完成订阅配置即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "junyin11.cn",
+    "host": "junyin11.cn"
+  },
+  "file_hashes": {
+    "index.html": "2bcd1606bd28024f45f14be8a1613b278b6d01d58d244ff2eda9a4ce1f0d9a0e",
+    "sitemap.xml": "29a4e87910062cc162316808f0a26fa5ba93591c674959ac2bd9753d420c34d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c150e7930029a8a7f67a797c0a0fcf0fab47299d39d4b414067b06880618f17e",
+    "robots.txt": "4c4e8ca9b6ed963a16359b1ad9bc47d4f4d814fe7bbec40f50d4d99036feebc6",
+    "702bd1d8c2dc91e5c903a46624812265.txt": "12abf26bd1ac27f321525751c76611f13f58b013b1211daf5b2557d3f646b766"
+  },
+  "revision": "6ebc00636ea8bda9fdd6e64c01683e10435dbb1e398a4ba386e66f363beada46"
+}
